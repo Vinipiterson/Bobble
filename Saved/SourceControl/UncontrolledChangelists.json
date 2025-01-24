@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"S:/Bobble/Content/Bobble/Blueprints/HealthComponent.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/Components/HealthComponent.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/UI/UI_CharacterOverlay.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/Core/BP_BobPlayerController.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/Instances/B_BobCharacter.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/Core/B_BobGameMode.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/Core/B_BobPlayerController.uasset",
+				"S:/Bobble/Content/Bobble/Levels/DevLevel.umap",
+				"S:/Bobble/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Wood.uasset",
+				"S:/Bobble/Content/Bobble/Materials/M_VenomBubble.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/Instances/B_VenomBoblle.uasset",
+				"S:/Bobble/Content/Bobble/Levels/MainMenu.umap",
+				"S:/Bobble/Content/Bobble/Blueprints/UI/UI_MainMenu.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/UI/UI_MenuButton.uasset",
+				"S:/Bobble/Content/Bobble/Blueprints/UI/UI_LevelCard.uasset",
+				"S:/Bobble/Content/Bobble/Assets/Textures/LevelStarBar.uasset"
+			]
+		}
+	]
+}
